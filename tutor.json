@@ -1,0 +1,42 @@
+//List of tutor
+
+{
+   "tutor": [
+
+      {
+         "id": "01",
+         "name": "Haikal",
+         "location": "Kedah",
+         "subject": "Bahasa Malaysia"
+      },
+
+      {
+         "id": "02",
+         "name": "Aiman",
+         "location": "Selangor",
+         "subject": "Matematik"
+      },
+      
+      {
+         "id": "03",
+         "name": "Firhad",
+         "location": "Selangor",
+         "subject": "Komputer"
+      },
+      
+      {
+         "id": "04",
+         "name": "Hazrita",
+         "location": "Pahang",
+         "subject": "Bisnes"
+      },
+      
+      {
+         "id": "05",
+         "name": "Aisyah",
+         "location": "Johor",
+         "subject": "Sains"
+      }
+
+   ]
+}
