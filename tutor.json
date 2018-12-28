@@ -7,6 +7,7 @@
          "id": "01",
          "name": "Haikal",
          "location": "Kedah",
+         "rating": "8.0",
          "subject": "Bahasa Malaysia"
       },
 
@@ -14,6 +15,7 @@
          "id": "02",
          "name": "Aiman",
          "location": "Selangor",
+         "rating": "7.5",
          "subject": "Matematik"
       },
       
@@ -21,6 +23,7 @@
          "id": "03",
          "name": "Firhad",
          "location": "Selangor",
+         "rating": "8.8",
          "subject": "Komputer"
       },
       
@@ -28,6 +31,7 @@
          "id": "04",
          "name": "Hazrita",
          "location": "Pahang",
+         "rating": "8.5",
          "subject": "Bisnes"
       },
       
@@ -35,6 +39,7 @@
          "id": "05",
          "name": "Aisyah",
          "location": "Johor",
+         "rating": "7.8",
          "subject": "Sains"
       }
 
